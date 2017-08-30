@@ -1,39 +1,13 @@
 # 01-Hello-Class
+Hi! In this program, I tell a little about myself by using python. 
 
-Hello, class! This is the first assignment for ILS-Z399. The requirements for this assignment are as follows:
+The program should read:
 
-Write a Python program that displays answers to the following questions:
-
-* What is your name?
-* What is your favorite game?
-* What concerns do you have about this class?
-* What are you excited about (in general)?
-* What is your stackoverflow.com user number?
-* What is the URL to your github.com profile?
-
-In order to complete the assignment, you will need to do the following:
-
-* Create an account on [stackoverflow.com](https://stackoverflow.com).
-* Create an account on [github.com](https://github.com).
-* Download and install [Python 3](https://www.python.org/downloads/).
-* Choose and install an IDE (optional, [pyCharm](https://www.jetbrains.com/pycharm/) is an okay choice or [Sublime Text](http://www.sublimetext.com/))
-* Download [git](https://git-scm.com/downloads) or [GitHub](https://desktop.github.com/) desktop
-* Take a look at the [assignment template](https://github.com/ILS-Z399/01-Hello-Class) on Github
-
-*We will discuss on Monday how to fork the repository and upload it back to GitHub.*
-
----
-
-The grading criteria will be as follows:
-
-* [1 point] Assignment turned in on time
-* [1] Repository contains an appropriate software license
-* [2] Repository contains a descriptive README.md
-* [1] Requires Python 3
-* [1] No syntax errors
-* [8] Accomplishes the objective of the assignment
-* [2] No other runtime errors
-* [2] Validates user input (if necessary)
-* [2] Adds interesting features (beyond the scope of the assignment)
-
-20 points total
+Hello, Class!
+My name is Kayla.
+I love to game, but I haven't done so in a while.
+My usual go to games are Skyrim, Sims, and Guitar Hero.
+I'm excited to get to learn a new programming language, and I'm excited to begin creating my own content.
+Although the class seems like it is going to be really fun, I'm afraid that I won't be good at coding or that I'll be drowning in work.
+The URL to my github profile is https://github.com/Barnes31.
+And my Stack Overflow user number is 8497239.
